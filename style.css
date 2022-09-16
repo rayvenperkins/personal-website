@@ -1,9 +1,19 @@
 
+* {
+    padding: 0;
+    margin: 0;
+    border-width:0;
+}
+
+
 body{
     
     background: linear-gradient(180deg, skyblue, white);
 }
 
+head5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 p{
     color: black;
@@ -17,6 +27,7 @@ p{
 img {
     border: 10px solid blue;
     outline: auto;
+    margin-bottom: 10%;
     
 }
 
@@ -24,19 +35,23 @@ head2{
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
+    margin:2px;
 
 }
 p2{
     color:blue;
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New', Courier, monospace;
+    padding: 12px;
 }
 
 head3{
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
+    margin: 2px;
 }
 p3{
     color:blue;
-    font-family:'Courier New', Courier, monospace 
+    font-family:'Courier New', Courier, monospace;
+    padding:12px;
 }
