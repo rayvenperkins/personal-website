@@ -1,0 +1,33 @@
+p{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    border-bottom: 0px;
+    
+}
+
+img {
+    border-top: 0px;
+    outline: auto;
+}
+
+head2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+
+}
+p2{
+    color:blue;
+    font-family:'Courier New', Courier, monospace
+}
+
+head3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+p3{
+    color:blue;
+    font-family:'Courier New', Courier, monospace 
+}
